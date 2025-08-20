@@ -64,3 +64,8 @@ Me chamo Rafael Abras, tenho 18 anos e sou natural de Minas Gerais. Atualmente c
 ### Certificações
 
 - AWS Cloud Praticioner
+
+### 📖 Livros que estou lendo atualmente 📚
+
+- *Manual de DevOps:* Como Obter Agilidade, Confiabilidade e Segurança em Organizações Tecnológicas  [Link](https://www.amazon.com.br/Manual-DevOps-confiabilidade-organiza%C3%A7%C3%B5es-tecnol%C3%B3gicas/dp/8550802697)
+- 
