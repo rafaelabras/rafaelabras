@@ -67,9 +67,22 @@ Me chamo Rafael Abras, tenho 18 anos e sou natural de Minas Gerais. Atualmente c
 
 ### 📖 Livros que estou lendo atualmente 📚
 
-- *Manual de DevOps:* Como Obter Agilidade, Confiabilidade e Segurança em Organizações Tecnológicas  [Link](https://www.amazon.com.br/Manual-DevOps-confiabilidade-organiza%C3%A7%C3%B5es-tecnol%C3%B3gicas/dp/8550802697)
+<div align="center">
+<table>
+<tr>
+<td align="center" colspan="5"></td>
+</tr>
+<tr>
+<td>
+<img width="150" height="200" src="imgs/61uelQAJ1SL.jpg"/>
+</td>
+<td>
+<img width="150" height="200" src="imgs/learning.oreilly.jpg"/>
+</td>
+</table>
+</div>
 
-### Atualmente estudando
+## Atualmente estudando
  - Continuamente DevOps e AWS
  - Azure
  - Aprofundando em C#
