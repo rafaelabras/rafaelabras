@@ -79,6 +79,12 @@ Me chamo Rafael Abras, tenho 18 anos e sou natural de Minas Gerais. Atualmente c
 <td>
 <img width="150" height="200" src="imgs/learning.oreilly.jpg"/>
 </td>
+    <td>
+<img width="150" height="200" src="imgs/sql_oreilly.jpg"/>
+</td>
+    <td>
+<img width="150" height="200" src="imgs/db_internals_oreilly.jpg"/>
+</td>
 </table>
 </div>
 
