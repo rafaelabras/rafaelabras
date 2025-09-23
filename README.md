@@ -61,6 +61,13 @@ Me chamo Rafael Abras, tenho 18 anos e sou natural de Minas Gerais. Atualmente c
 <br/>
 <br/>
 
+## Atualmente estudando
+ - Typescript
+ - Continuamente DevOps e AWS
+ - Azure
+ - Aprofundando em C#
+ - Bash
+
 ### Certificações
 
 - AWS Cloud Praticioner
@@ -88,9 +95,4 @@ Me chamo Rafael Abras, tenho 18 anos e sou natural de Minas Gerais. Atualmente c
 </table>
 </div>
 
-## Atualmente estudando
- - Continuamente DevOps e AWS
- - Azure
- - Aprofundando em C#
- - Bash
 
