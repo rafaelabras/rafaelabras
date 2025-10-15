@@ -62,7 +62,6 @@ Me chamo Rafael Abras, tenho 18 anos e sou natural de Minas Gerais. Atualmente c
 <br/>
 
 ## Atualmente estudando
- - Typescript
  - Continuamente DevOps e AWS
  - Azure
  - Aprofundando em C#
