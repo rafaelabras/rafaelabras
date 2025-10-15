@@ -98,4 +98,21 @@ Me chamo Rafael Abras, tenho 18 anos e sou natural de Minas Gerais. Atualmente c
 </table>
 </div>
 
+### 📖 Livros que pretendo ler 📚
+
+<div align="center">
+<table>
+<tr>
+<td align="center" colspan="5"></td>
+</tr>
+<tr>
+<td>
+<img width="150" height="200" src="imgs/sis_operacionais.jpg"/>
+</td>
+<td>
+<img width="150" height="200" src="imgs/redes.jpg"/>
+</td>
+</table>
+</div>
+
 
