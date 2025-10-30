@@ -93,6 +93,9 @@ Me chamo Rafael Abras, tenho 18 anos e sou natural de Minas Gerais. Atualmente c
         <td>
 <img width="150" height="200" src="imgs/grk_alg.jpg"/>
 </td>
+    <td>
+<img width="150" height="200" src="imgs/grk_data_structures.jpg"/>
+</td>
 </table>
 </div>
 
