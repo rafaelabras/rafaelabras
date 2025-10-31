@@ -68,7 +68,20 @@ Me chamo Rafael Abras, tenho 18 anos e sou natural de Minas Gerais. Atualmente c
 
 ### Certificações
 
-- AWS Cloud Praticioner
+<div align="center">
+<table>
+<tr>
+<td align="center" colspan="5"></td>
+</tr>
+<tr>
+<td>
+<img width="150" height="200" src="imgs/cloud_p.jpg"/>
+</td>
+    <td>
+<img width="150" height="200" src="imgs/dev_associate.jpg"/>
+</td>
+</table>
+</div>
 
 ### 📖 Livros que estou lendo atualmente 📚
 
