@@ -2,7 +2,7 @@
 
 **`DevOps e Backend`**
 
-Me chamo Rafael Abras, tenho 18 anos e sou natural de Minas Gerais. Atualmente curso Engenharia de Software pela PUC Minas, além de ter completado o curso AWS re/Start e a trilha de extensão AWS Developer pela Escola da Nuvem. Sou apaixonado por tecnologia e tenho curiosidade e paixão pelo ciclo de um software desde o código até o deploy e System Design.
+Me chamo Rafael Abras, tenho 19 anos e sou natural de Minas Gerais. Atualmente curso Engenharia de Software pela PUC Minas, além de ter completado o curso AWS re/Start e a trilha de extensão AWS Developer pela Escola da Nuvem. Sou apaixonado por tecnologia e tenho curiosidade e paixão pelo ciclo de um software desde o código até o deploy e System Design.
 
 
 ---
