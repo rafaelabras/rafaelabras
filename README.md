@@ -62,7 +62,7 @@ Me chamo Rafael Abras, tenho 19 anos e sou natural de Minas Gerais. Atualmente s
 <br/>
 
 ## Atualmente estudando
- - PL/SQL e Oracle
+ - Machine Learning
  - Golang
  - Continuamente C#
  - Arquitetura de Software
@@ -80,52 +80,6 @@ Me chamo Rafael Abras, tenho 19 anos e sou natural de Minas Gerais. Atualmente s
 </td>
     <td>
 <img width="150" height="200" src="imgs/dev_associate.jpg"/>
-</td>
-</table>
-</div>
-
-### 📖 Livros que estou lendo atualmente 📚
-
-<div align="center">
-<table>
-<tr>
-<td align="center" colspan="5"></td>
-</tr>
-<tr>
-<td>
-<img width="150" height="200" src="imgs/61uelQAJ1SL.jpg"/>
-</td>
-<td>
-<img width="150" height="200" src="imgs/learning.oreilly.jpg"/>
-</td>
-    <td>
-<img width="150" height="200" src="imgs/sql_oreilly.jpg"/>
-</td>
-    <td>
-<img width="150" height="200" src="imgs/db_internals_oreilly.jpg"/>
-</td>
-        <td>
-<img width="150" height="200" src="imgs/grk_alg.jpg"/>
-</td>
-    <td>
-<img width="150" height="200" src="imgs/grk_data_structures.jpg"/>
-</td>
-</table>
-</div>
-
-### 📖 Livros que pretendo ler 📚
-
-<div align="center">
-<table>
-<tr>
-<td align="center" colspan="5"></td>
-</tr>
-<tr>
-<td>
-<img width="150" height="200" src="imgs/sis_operacionais.jpg"/>
-</td>
-<td>
-<img width="150" height="200" src="imgs/redes.jpg"/>
 </td>
 </table>
 </div>
